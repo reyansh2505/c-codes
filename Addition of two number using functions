@@ -1,0 +1,15 @@
+// #include <stdio.h>
+
+// int sumf(int a , int b);
+
+// int main() {
+//     int c;
+//     c=sumf(3,9);
+//     printf("The value of c is %d",c);
+// }
+
+// int sumf(int a , int b) {
+//     int result;
+//     result=a+b;
+//     return result;
+// }

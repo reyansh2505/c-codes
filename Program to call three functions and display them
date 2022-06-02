@@ -1,0 +1,22 @@
+// #include <stdio.h>
+
+// int funcq1(){
+//     printf("Good Morning guys\n");
+// }
+// int funcq2(){
+//     printf("Good afternoon guys\n");
+// }
+// int funcq3(){
+//     printf("Good Night guys\n");
+// }
+
+// int main(){
+
+//       funcq1();
+//       funcq2();
+//       funcq3();
+
+//       return 0;
+
+
+// }

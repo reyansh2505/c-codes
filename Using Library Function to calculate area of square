@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+  int square(int a); //Function Prototype
+
+int main() {
+
+    int c;
+    c=square(4);//Function Call
+    printf("The area of sqaure is %d",c);
+}
+
+int square(int a) {//Function Defination
+    int result;
+    result=a*a;
+    return result;
+}
